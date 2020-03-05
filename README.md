@@ -1,4 +1,4 @@
 # tempConverter
 https://nlszekely.github.io/tempConverter/
-Google temperature converter made with Vanilla Javascript
+#Google temperature converter made with Vanilla Javascript
 ![tempConverter](screenshot.PNG)
